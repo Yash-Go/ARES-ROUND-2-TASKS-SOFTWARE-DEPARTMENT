@@ -1,0 +1,38 @@
+ARES Website Analysis and Suggested Improvements
+
+After going through the ARES website, I found that the website already covers many things about the society.
+While going through it, these are some things which I thought can be improved or can be useful in future.
+
+1. More details when opening a project
+
+One thing which I noticed in the Projects section is that the projects are shown as cards. I think this is good for giving a quick overview, but I personally wanted to know more about some of the projects.
+For example, if I am a fresher and I see an interesting project, I would like to click on it and understand what exactly they made and how they made it. Right now, having a separate page for each project can make this much more useful.
+The page does not necessarily need to have a lot of information. Even a simple explanation about what the project does, what was used to make it and some photos or videos of it working would be interesting.
+I think that by this users like a fresher like me or someone interested in robotics can easily understand what was the project about, why is it important and maybe get an idea about how they can contribute to similar projects.
+
+Technically, the existing project cards can be linked to another page. HTML and CSS can be used for creating that page and showing the information properly. If there are things like opening images or showing some extra content when clicked, JavaScript can be used there.
+I think this would make the Projects section feel more useful instead of just giving a small overview.
+
+2. Adding information about past projects
+
+Another thing which I noticed is that the Projects section mainly shows the projects which are currently going on. I think it would also be better to have some information about projects which ARES has done in the past.
+ARES has been there for a long time, so I am guessing there must have been many projects done by previous members as well. Even if those projects are completed now, I don't think the work done on them should just disappear from the website.
+There can simply be something like a Past Projects section along with the current projects. It can show the project name, when it was done and a small description about it. If old photos, videos or competition results are available, those can also be added.
+I think this can be helpful especially for new members. They can see what kind of things ARES has worked on before. It also gives an idea about how the society and its projects have changed over the years.
+
+For implementing this, I think the existing project section can be extended rather than creating something completely different. Past projects can be added separately and shown in the same kind of format. Later, if there are many projects, there can be an option to switch between current and past projects.
+
+3. Search or filter feature in the future
+
+This is not something which I think is needed right now. Currently there are not a huge number of projects, so adding a search bar just for the sake of having one does not make much sense.
+But I thought about what would happen in the future. If more and more projects get added, including the past projects, then finding a particular project can become difficult.
+At that point, a search or filter option can be useful. For example, someone might only be interested in software-related work, while another person might want to look at mechanical or electronics projects.
+So they could select a category and see projects related to that area.
+The basic idea is that every project can have some category attached to it. Then when a user selects a category, the website can show the matching projects. JavaScript can be used for this type of filtering.
+Again, I don't think this is an important feature for the website right now. I am mentioning it more as something which can be useful when the number of projects increases.
+
+Conclusion
+
+These were some things which came to my mind while going through the website. I am still learning and my current knowledge is mainly Python fundamentals, so I might not know the best or most advanced way of implementing all these things.
+But I am interested in learning web development and other technologies required for working on such features. I think working with ARES can also help me learn by actually working on real projects instead of only learning concepts separately.
+The main areas where I think I can contribute or learn are improving the project information, keeping a record of past projects and thinking about how the website can handle more projects in the future.
